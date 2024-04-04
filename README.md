@@ -1,6 +1,6 @@
 # Big data: Analisi di Wikipedia
 
-Svolgimento di un'analisi esplorativa per valutare statisticamente il contenuto informativo offerto da Wikipedia, e classificazione testuale degli articoli.
+Svolgimento di un'analisi esplorativa per valutare statisticamente il contenuto informativo offerto da Wikipedia, e classificazione testuale degli articoli. Viene usato Apache Spark.
 
 # Descrizione
 Viene fornito un bump di 150k articoli di Wikipedia. Il dataset è composto dalle seguenti colonne:
